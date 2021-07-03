@@ -1,0 +1,107 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "name": "Athena",
+            "desc": "Charming Fuchsia Pink Power Shoulders Tulip Hem Wrap Dress",
+            "price": 979,
+            "color": "#33505a",
+            "image": "https://assets.myntassets.com/dpr_1.5,q_60,w_400,c_limit,fl_progressive/assets/images/13719160/2021/3/5/b04a5dc0-9beb-4490-ae2c-f0f9654ded1c1614925067822-Athena-Fuchsia-Pink-dress-with-Power-shoulderS--Tulip-Bottom-1.jpg"
+        },
+        {
+            "id": 2,
+            "name":"Veni Vidi Vici",
+            "desc": "Black Ruched Bodycon Dress",
+            "price": 756,
+            "color":"#33505a",
+            "image":"https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/10054821/2019/7/3/cf3abcc0-e21f-4e6f-b3dc-9b00356948f91562138455152-Veni-Vidi-Vici-Women-Black-Bodycon-Dress-3841562138453419-5.jpg"        
+        },
+        {
+            "id": 3,
+            "name":"Forever New",
+            "desc": "Women Pink Self Design Fit and Flare Dress",
+            "price": 7800,
+            "color":"#33505a",
+            "image":"https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/productimage/2021/4/20/6d002686-76c0-46e9-91ff-3b34c99285041618916163765-1.jpg"
+        },
+        {
+            "id": 4,
+            "name":"Masaba",
+            "desc": "Women Green & Orange Floral Print Checkered Dog Off-Shoulder A-Line Dress",
+            "price": 7699,
+            "color":"#33505a",
+            "image":"https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/productimage/2021/4/17/1f3c3bea-f449-46c3-9d04-bc0b4a8931391618656202219-4.jpg"
+        },
+        {
+            "id": 5,
+            "name":"Espirit",
+            "desc": "Women Navy Blue Schiffli Embroidered A-Line Dress",
+            "price": 6999,
+            "color":"#33505a",
+            "image":"https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/6849963/2018/7/10/c6600380-14ea-41a1-9d28-a4c05735c9151531222037928-ESPRIT-Women-Dresses-3191531222037747-1.jpg"
+        },
+        {
+            "id": 6,
+            "name":"Libas",
+            "desc": "Women Green Off-White Printed Maxi Dress",
+            "price": 645,
+            "color":"#33505a",
+            "image":"https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/12133332/2020/7/29/57d71f8b-8d32-44b7-8eb4-219e52fc3d311596018924750KSUTfuchsiaabstractprintedflaredfulllengthplacketkurtawithro4.jpg"
+        },
+        {
+            "id": 7,
+            "name":"Sassafras",
+            "desc": "Women White Schiffli Embroidered A-Line Dress",
+            "price": 662,
+            "color":"#33505a",
+            "image":"https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/11549490/2020/2/26/789ea6b2-4d52-40ed-b20a-045bad62cb801582703299222-SASSAFRAS-Women-White-Self-Design-Wrap-Dress-864158270329790-5.jpg"
+        },
+        {
+            "id": 8,
+            "name":"Sassafras",
+            "desc": "Women Green Solid Accordion Pleated A-Line Dress",
+            "price": 611,
+            "color":"#33505a",
+            "image":"https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/11364126/2020/1/28/2f3482ac-96fd-4ef9-bf8f-3017f03297761580197901414-SASSAFRAS-Women-Green-Solid-A-Line-Dress-9491580197899621-5.jpg"
+        },
+        {
+            "id": 9,
+            "name":"EthnoVogue",
+            "desc": "Women Mauve Solid Made to Measure Maxi Dress with Embroidered Jacket ",
+            "price": 7619,
+            "color":"#33505a",
+            "image":"https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/11674534/2020/6/12/77e4463a-89cd-4de2-b8cd-ec900321f6ff1591948324647-Bollywood-Vogue-Women-Mauve-Solid-Made-to-Measure-Maxi-Dress-1.jpg"
+        },
+        {
+            "id": 10,
+            "name":"Perkins",
+            "desc": "Women Pink Mermaid Sequins A-Line Dress",
+            "price": 6590,
+            "color":"#33505a",
+            "image":"https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/12311004/2020/8/27/74b17ea6-e2c8-40a8-ad7e-3938a97b37451598503791191TopsMANGOWomenTshirtsMANGOMANMenDressesMANGOWomenTshirtsMANG3.jpg"
+        },
+        {
+            "id": 11,
+            "name":"LOVE MOSCHINO",
+            "desc": "Black & White Cotton T-shirt Dress",
+            "price": 19350,
+            "color":"#33505a",
+            "image":"https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/productimage/2021/6/8/59dc8b54-4fc8-4ef5-816f-23d66b9595e61623166568994-1.jpg"
+        },
+        {
+            "id": 12,
+            "name":"BCBGeneration",
+            "desc": "Grey Coloured Solid Maxi Dress",
+            "price": 12999,
+            "color":"#33505a",
+            "image":"https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/productimage/2018/11/26/88b4fae4-d950-4b08-a855-ffa930cdc52b1543177090556-1.jpg"
+        },
+        {
+            "id": 13,
+            "name":"Kook N Keech Marvel",
+            "desc": "Women Burgundy Printed T-shirt Dress",
+            "price": 594,
+            "color":"#33505a",
+            "image": "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/2371021/2018/2/22/11519282711839-Kook-N-Keech-Marvel-Women-Burgundy-Printed-T-shirt-Dress-9501519282711657-1.jpg"       }
+    ]
+}
